@@ -1,6 +1,6 @@
 Change 2 in File1
 
-Change for idea branch
+Change for 'idea' branch
 
-Change for master branch
+Change for 'master' branch
 
