@@ -1,1 +1,3 @@
 Change 2 in File1
+
+Change for master branch
