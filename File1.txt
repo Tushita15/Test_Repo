@@ -1,4 +1,5 @@
 Change 2 in File1, for remote
+Change 2 in File1, for local
 
 Change for 'idea' branch
 
